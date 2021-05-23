@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558110504 source:c:\users\lenovo\desktop\priorityqueues_bankcustomers\main.c
+	<stdio.h>
+	<stdlib.h>
+
